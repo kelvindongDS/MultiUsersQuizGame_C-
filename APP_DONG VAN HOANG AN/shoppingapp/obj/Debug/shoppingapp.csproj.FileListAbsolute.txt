@@ -1,0 +1,17 @@
+d:\Users\Kelvin\source\repos\shoppingapp\shoppingapp\bin\Debug\shoppingapp.exe.config
+d:\Users\Kelvin\source\repos\shoppingapp\shoppingapp\bin\Debug\shoppingapp.exe
+d:\Users\Kelvin\source\repos\shoppingapp\shoppingapp\bin\Debug\shoppingapp.pdb
+d:\Users\Kelvin\source\repos\shoppingapp\shoppingapp\bin\Debug\MySql.Data.dll
+d:\Users\Kelvin\source\repos\shoppingapp\shoppingapp\bin\Debug\MySql.Data.xml
+d:\Users\Kelvin\source\repos\shoppingapp\shoppingapp\obj\Debug\shoppingapp.csprojResolveAssemblyReference.cache
+d:\Users\Kelvin\source\repos\shoppingapp\shoppingapp\obj\Debug\shoppingapp.Properties.Resources.resources
+d:\Users\Kelvin\source\repos\shoppingapp\shoppingapp\obj\Debug\shoppingapp.csproj.GenerateResource.cache
+d:\Users\Kelvin\source\repos\shoppingapp\shoppingapp\obj\Debug\shoppingapp.csproj.CoreCompileInputs.cache
+d:\Users\Kelvin\source\repos\shoppingapp\shoppingapp\obj\Debug\shoppingapp.csproj.CopyComplete
+d:\Users\Kelvin\source\repos\shoppingapp\shoppingapp\obj\Debug\shoppingapp.exe
+d:\Users\Kelvin\source\repos\shoppingapp\shoppingapp\obj\Debug\shoppingapp.pdb
+d:\Users\Kelvin\source\repos\shoppingapp\shoppingapp\obj\Debug\shoppingapp.adduser.resources
+d:\Users\Kelvin\source\repos\shoppingapp\shoppingapp\obj\Debug\shoppingapp.admin.resources
+d:\Users\Kelvin\source\repos\shoppingapp\shoppingapp\obj\Debug\shoppingapp.signin.resources
+d:\Users\Kelvin\source\repos\shoppingapp\shoppingapp\obj\Debug\shoppingapp.edituser.resources
+d:\Users\Kelvin\source\repos\shoppingapp\shoppingapp\obj\Debug\shoppingapp.del_old_game.resources

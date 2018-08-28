@@ -1,0 +1,93 @@
+D:\Users\Kelvin\source\quizgame\shoppingapp\obj\Debug\quizgame.csprojResolveAssemblyReference.cache
+D:\Users\Kelvin\source\quizgame\shoppingapp\obj\Debug\shoppingapp.Properties.Resources.resources
+D:\Users\Kelvin\source\quizgame\shoppingapp\obj\Debug\quizgame.csproj.GenerateResource.cache
+D:\Users\Kelvin\source\quizgame\shoppingapp\obj\Debug\quizgame.csproj.CoreCompileInputs.cache
+D:\Users\Kelvin\source\quizgame\shoppingapp\obj\Debug\shoppingapp.exe
+D:\Users\Kelvin\source\quizgame\shoppingapp\obj\Debug\shoppingapp.pdb
+D:\Users\Kelvin\source\quizgame\shoppingapp\bin\Debug\shoppingapp.exe.config
+D:\Users\Kelvin\source\quizgame\shoppingapp\bin\Debug\shoppingapp.exe
+D:\Users\Kelvin\source\quizgame\shoppingapp\bin\Debug\shoppingapp.pdb
+D:\Users\Kelvin\source\quizgame\shoppingapp\bin\Debug\MySql.Data.dll
+D:\Users\Kelvin\source\quizgame\shoppingapp\bin\Debug\MySql.Data.xml
+D:\Users\Kelvin\source\quizgame\shoppingapp\obj\Debug\quizgame.csproj.CopyComplete
+D:\Users\Kelvin\source\quizgame\shoppingapp\obj\Debug\quizgame.admin.resources
+D:\Users\Kelvin\source\quizgame\shoppingapp\obj\Debug\quizgame.signin.resources
+D:\Users\Kelvin\source\quizgame\shoppingapp\obj\Debug\quizgame.adduser.resources
+D:\Users\Kelvin\source\quizgame\shoppingapp\obj\Debug\quizgame.del_old_game.resources
+D:\Users\Kelvin\source\quizgame\shoppingapp\obj\Debug\quizgame.edituser.resources
+D:\OneDrive\LEARNING\S1 2018\DAT602\agssigment 2\quizgame\shoppingapp\bin\Debug\MySql.Data.dll
+D:\OneDrive\LEARNING\S1 2018\DAT602\agssigment 2\quizgame\shoppingapp\bin\Debug\MySql.Data.xml
+D:\OneDrive\LEARNING\S1 2018\DAT602\agssigment 2\quizgame\shoppingapp\obj\Debug\quizgame.csprojResolveAssemblyReference.cache
+D:\OneDrive\LEARNING\S1 2018\DAT602\agssigment 2\quizgame\shoppingapp\obj\Debug\quizgame.adduser.resources
+D:\OneDrive\LEARNING\S1 2018\DAT602\agssigment 2\quizgame\shoppingapp\obj\Debug\quizgame.admin.resources
+D:\OneDrive\LEARNING\S1 2018\DAT602\agssigment 2\quizgame\shoppingapp\obj\Debug\quizgame.del_old_game.resources
+D:\OneDrive\LEARNING\S1 2018\DAT602\agssigment 2\quizgame\shoppingapp\obj\Debug\quizgame.edituser.resources
+D:\OneDrive\LEARNING\S1 2018\DAT602\agssigment 2\quizgame\shoppingapp\obj\Debug\quizgame.member.resources
+D:\OneDrive\LEARNING\S1 2018\DAT602\agssigment 2\quizgame\shoppingapp\obj\Debug\quizgame.signin.resources
+D:\OneDrive\LEARNING\S1 2018\DAT602\agssigment 2\quizgame\shoppingapp\obj\Debug\quizgame.csproj.GenerateResource.cache
+D:\OneDrive\LEARNING\S1 2018\DAT602\agssigment 2\quizgame\shoppingapp\obj\Debug\quizgame.csproj.CoreCompileInputs.cache
+D:\OneDrive\LEARNING\S1 2018\DAT602\agssigment 2\quizgame\shoppingapp\obj\Debug\quizgame.csproj.CopyComplete
+D:\OneDrive\LEARNING\S1 2018\DAT602\agssigment 2\quizgame\shoppingapp\bin\Debug\quizgame.exe.config
+D:\OneDrive\LEARNING\S1 2018\DAT602\agssigment 2\quizgame\shoppingapp\bin\Debug\quizgame.exe
+D:\OneDrive\LEARNING\S1 2018\DAT602\agssigment 2\quizgame\shoppingapp\bin\Debug\quizgame.pdb
+D:\OneDrive\LEARNING\S1 2018\DAT602\agssigment 2\quizgame\shoppingapp\obj\Debug\quizgame.Properties.Resources.resources
+D:\OneDrive\LEARNING\S1 2018\DAT602\agssigment 2\quizgame\shoppingapp\obj\Debug\quizgame.exe
+D:\OneDrive\LEARNING\S1 2018\DAT602\agssigment 2\quizgame\shoppingapp\obj\Debug\quizgame.pdb
+D:\OneDrive\LEARNING\S1 2018\DAT602\agssigment 2\quizgame\shoppingapp\obj\Debug\quizgame.game.resources
+D:\OneDrive\LEARNING\S1 2018\DAT602\agssigment 2\quizgame2\shoppingapp\bin\Debug\quizgame.exe.config
+D:\OneDrive\LEARNING\S1 2018\DAT602\agssigment 2\quizgame2\shoppingapp\bin\Debug\quizgame.exe
+D:\OneDrive\LEARNING\S1 2018\DAT602\agssigment 2\quizgame2\shoppingapp\bin\Debug\quizgame.pdb
+D:\OneDrive\LEARNING\S1 2018\DAT602\agssigment 2\quizgame2\shoppingapp\bin\Debug\MySql.Data.dll
+D:\OneDrive\LEARNING\S1 2018\DAT602\agssigment 2\quizgame2\shoppingapp\bin\Debug\MySql.Data.xml
+D:\OneDrive\LEARNING\S1 2018\DAT602\agssigment 2\quizgame2\shoppingapp\obj\Debug\quizgame.csprojResolveAssemblyReference.cache
+D:\OneDrive\LEARNING\S1 2018\DAT602\agssigment 2\quizgame2\shoppingapp\obj\Debug\quizgame.adduser.resources
+D:\OneDrive\LEARNING\S1 2018\DAT602\agssigment 2\quizgame2\shoppingapp\obj\Debug\quizgame.admin.resources
+D:\OneDrive\LEARNING\S1 2018\DAT602\agssigment 2\quizgame2\shoppingapp\obj\Debug\quizgame.del_old_game.resources
+D:\OneDrive\LEARNING\S1 2018\DAT602\agssigment 2\quizgame2\shoppingapp\obj\Debug\quizgame.edituser.resources
+D:\OneDrive\LEARNING\S1 2018\DAT602\agssigment 2\quizgame2\shoppingapp\obj\Debug\quizgame.game.resources
+D:\OneDrive\LEARNING\S1 2018\DAT602\agssigment 2\quizgame2\shoppingapp\obj\Debug\quizgame.member.resources
+D:\OneDrive\LEARNING\S1 2018\DAT602\agssigment 2\quizgame2\shoppingapp\obj\Debug\quizgame.Properties.Resources.resources
+D:\OneDrive\LEARNING\S1 2018\DAT602\agssigment 2\quizgame2\shoppingapp\obj\Debug\quizgame.signin.resources
+D:\OneDrive\LEARNING\S1 2018\DAT602\agssigment 2\quizgame2\shoppingapp\obj\Debug\quizgame.csproj.GenerateResource.cache
+D:\OneDrive\LEARNING\S1 2018\DAT602\agssigment 2\quizgame2\shoppingapp\obj\Debug\quizgame.csproj.CoreCompileInputs.cache
+D:\OneDrive\LEARNING\S1 2018\DAT602\agssigment 2\quizgame2\shoppingapp\obj\Debug\quizgame.csproj.CopyComplete
+D:\OneDrive\LEARNING\S1 2018\DAT602\agssigment 2\quizgame2\shoppingapp\obj\Debug\quizgame.exe
+D:\OneDrive\LEARNING\S1 2018\DAT602\agssigment 2\quizgame2\shoppingapp\obj\Debug\quizgame.pdb
+D:\OneDrive\LEARNING\S1 2018\DAT602\agssigment 2\quizgame3\shoppingapp\bin\Debug\quizgame.exe.config
+D:\OneDrive\LEARNING\S1 2018\DAT602\agssigment 2\quizgame3\shoppingapp\bin\Debug\quizgame.exe
+D:\OneDrive\LEARNING\S1 2018\DAT602\agssigment 2\quizgame3\shoppingapp\bin\Debug\quizgame.pdb
+D:\OneDrive\LEARNING\S1 2018\DAT602\agssigment 2\quizgame3\shoppingapp\bin\Debug\MySql.Data.dll
+D:\OneDrive\LEARNING\S1 2018\DAT602\agssigment 2\quizgame3\shoppingapp\bin\Debug\MySql.Data.xml
+D:\OneDrive\LEARNING\S1 2018\DAT602\agssigment 2\quizgame3\shoppingapp\obj\Debug\quizgame.adduser.resources
+D:\OneDrive\LEARNING\S1 2018\DAT602\agssigment 2\quizgame3\shoppingapp\obj\Debug\quizgame.admin.resources
+D:\OneDrive\LEARNING\S1 2018\DAT602\agssigment 2\quizgame3\shoppingapp\obj\Debug\quizgame.del_old_game.resources
+D:\OneDrive\LEARNING\S1 2018\DAT602\agssigment 2\quizgame3\shoppingapp\obj\Debug\quizgame.edituser.resources
+D:\OneDrive\LEARNING\S1 2018\DAT602\agssigment 2\quizgame3\shoppingapp\obj\Debug\quizgame.game.resources
+D:\OneDrive\LEARNING\S1 2018\DAT602\agssigment 2\quizgame3\shoppingapp\obj\Debug\quizgame.member.resources
+D:\OneDrive\LEARNING\S1 2018\DAT602\agssigment 2\quizgame3\shoppingapp\obj\Debug\quizgame.Properties.Resources.resources
+D:\OneDrive\LEARNING\S1 2018\DAT602\agssigment 2\quizgame3\shoppingapp\obj\Debug\quizgame.signin.resources
+D:\OneDrive\LEARNING\S1 2018\DAT602\agssigment 2\quizgame3\shoppingapp\obj\Debug\quizgame.csproj.GenerateResource.cache
+D:\OneDrive\LEARNING\S1 2018\DAT602\agssigment 2\quizgame3\shoppingapp\obj\Debug\quizgame.csproj.CoreCompileInputs.cache
+D:\OneDrive\LEARNING\S1 2018\DAT602\agssigment 2\quizgame3\shoppingapp\obj\Debug\quizgame.csproj.CopyComplete
+D:\OneDrive\LEARNING\S1 2018\DAT602\agssigment 2\quizgame3\shoppingapp\obj\Debug\quizgame.exe
+D:\OneDrive\LEARNING\S1 2018\DAT602\agssigment 2\quizgame3\shoppingapp\obj\Debug\quizgame.pdb
+D:\OneDrive\LEARNING\S1 2018\DAT602\agssigment 2\quizgame3\shoppingapp\obj\Debug\quizgame.csprojResolveAssemblyReference.cache
+D:\OneDrive\LEARNING\S1 2018\DAT602\agssigment 2\DAT602_APP_DONG VAN HOANG AN\shoppingapp\bin\Debug\quizgame.exe.config
+D:\OneDrive\LEARNING\S1 2018\DAT602\agssigment 2\DAT602_APP_DONG VAN HOANG AN\shoppingapp\bin\Debug\quizgame.exe
+D:\OneDrive\LEARNING\S1 2018\DAT602\agssigment 2\DAT602_APP_DONG VAN HOANG AN\shoppingapp\bin\Debug\quizgame.pdb
+D:\OneDrive\LEARNING\S1 2018\DAT602\agssigment 2\DAT602_APP_DONG VAN HOANG AN\shoppingapp\bin\Debug\MySql.Data.dll
+D:\OneDrive\LEARNING\S1 2018\DAT602\agssigment 2\DAT602_APP_DONG VAN HOANG AN\shoppingapp\bin\Debug\MySql.Data.xml
+D:\OneDrive\LEARNING\S1 2018\DAT602\agssigment 2\DAT602_APP_DONG VAN HOANG AN\shoppingapp\obj\Debug\quizgame.csprojResolveAssemblyReference.cache
+D:\OneDrive\LEARNING\S1 2018\DAT602\agssigment 2\DAT602_APP_DONG VAN HOANG AN\shoppingapp\obj\Debug\quizgame.adduser.resources
+D:\OneDrive\LEARNING\S1 2018\DAT602\agssigment 2\DAT602_APP_DONG VAN HOANG AN\shoppingapp\obj\Debug\quizgame.admin.resources
+D:\OneDrive\LEARNING\S1 2018\DAT602\agssigment 2\DAT602_APP_DONG VAN HOANG AN\shoppingapp\obj\Debug\quizgame.del_old_game.resources
+D:\OneDrive\LEARNING\S1 2018\DAT602\agssigment 2\DAT602_APP_DONG VAN HOANG AN\shoppingapp\obj\Debug\quizgame.edituser.resources
+D:\OneDrive\LEARNING\S1 2018\DAT602\agssigment 2\DAT602_APP_DONG VAN HOANG AN\shoppingapp\obj\Debug\quizgame.game.resources
+D:\OneDrive\LEARNING\S1 2018\DAT602\agssigment 2\DAT602_APP_DONG VAN HOANG AN\shoppingapp\obj\Debug\quizgame.member.resources
+D:\OneDrive\LEARNING\S1 2018\DAT602\agssigment 2\DAT602_APP_DONG VAN HOANG AN\shoppingapp\obj\Debug\quizgame.Properties.Resources.resources
+D:\OneDrive\LEARNING\S1 2018\DAT602\agssigment 2\DAT602_APP_DONG VAN HOANG AN\shoppingapp\obj\Debug\quizgame.signin.resources
+D:\OneDrive\LEARNING\S1 2018\DAT602\agssigment 2\DAT602_APP_DONG VAN HOANG AN\shoppingapp\obj\Debug\quizgame.csproj.GenerateResource.cache
+D:\OneDrive\LEARNING\S1 2018\DAT602\agssigment 2\DAT602_APP_DONG VAN HOANG AN\shoppingapp\obj\Debug\quizgame.csproj.CoreCompileInputs.cache
+D:\OneDrive\LEARNING\S1 2018\DAT602\agssigment 2\DAT602_APP_DONG VAN HOANG AN\shoppingapp\obj\Debug\quizgame.csproj.CopyComplete
+D:\OneDrive\LEARNING\S1 2018\DAT602\agssigment 2\DAT602_APP_DONG VAN HOANG AN\shoppingapp\obj\Debug\quizgame.exe
+D:\OneDrive\LEARNING\S1 2018\DAT602\agssigment 2\DAT602_APP_DONG VAN HOANG AN\shoppingapp\obj\Debug\quizgame.pdb
